@@ -1,0 +1,14 @@
+c:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\bin\Debug\net8.0-windows\Project.exe
+C:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\bin\Debug\net8.0-windows\Project.deps.json
+C:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\bin\Debug\net8.0-windows\Project.runtimeconfig.json
+c:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\bin\Debug\net8.0-windows\Project.dll
+c:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\bin\Debug\net8.0-windows\Project.pdb
+c:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\obj\Debug\net8.0-windows\Project.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\obj\Debug\net8.0-windows\Project.AssemblyInfoInputs.cache
+c:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\obj\Debug\net8.0-windows\Project.AssemblyInfo.cs
+c:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\obj\Debug\net8.0-windows\Project.csproj.CoreCompileInputs.cache
+c:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\obj\Debug\net8.0-windows\Project.dll
+c:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\obj\Debug\net8.0-windows\refint\Project.dll
+c:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\obj\Debug\net8.0-windows\Project.pdb
+C:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\obj\Debug\net8.0-windows\Project.genruntimeconfig.cache
+C:\Users\olaja\OneDrive\Documents\Computer Graphics\Project\obj\Debug\net8.0-windows\ref\Project.dll
